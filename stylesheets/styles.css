@@ -1,0 +1,195 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:300);
+
+body {
+  font-family: "Lato", sans-serif;
+  margin: 0;
+  position: relative;
+}
+
+/***    images   ***/
+.photo {
+  background-attachment: fixed;
+  background-position: 100% 0;
+  background-repeat: no-repeat;
+  height: 700px;
+  position: relative;
+}
+
+.cloud1 {
+  margin: 70px 0 0 170px;
+}
+
+.cloud2 {
+  margin: 170px 0 0 550px; 
+}
+
+.cloud3 {
+  margin: 80px 0 0 750px; 
+}
+
+.cloud4 {
+  margin: 80px 0 0 5px; 
+}
+
+.cloud5 {
+  margin: 30px 0 0 950px; 
+}
+
+.cloud7 {
+  margin: 30px 0 0 450px; 
+}
+
+.cloud6 {
+  margin: 150px 0 0 100px; 
+}
+
+.kitty { 
+  height: 150px;
+  margin-left: 100px;
+  width: 150px;
+}
+
+.hearts {
+  overflow: hidden;
+}
+
+.stars {
+  overflow: hidden;
+}
+
+#heart1 {
+  height: 50px;
+  width: 50px;
+  margin-left: 2000%;
+  z-index: 10;
+}
+
+#heart2 {
+  height: 50px;
+  width: 50px;
+  margin-left: 1500%;
+  z-index: 10;
+}
+
+#heart3 {
+  height: 50px;
+  width: 50px;
+  margin-left: 2300%;
+  z-index: 10;
+}
+
+#heart4 {
+  height: 50px;
+  width: 50px;
+  margin-left: 1850%;
+  z-index: 10;
+}
+
+#heart5 {
+  height: 50px;
+  width: 50px;
+  margin-left: 1700%;
+  z-index: 10;
+}
+
+#star1 {
+  height: 30px;
+  width: 30px;
+  margin-left: 2500%;
+  z-index: 10;
+}
+
+#star2 {
+  height: 30px;
+  width: 30px;
+  margin-left: 2000%;
+  z-index: 11;
+}
+
+#star3 {
+  height: 30px;
+  width: 30px;
+  margin-left: 1700%;
+  z-index: 11;
+}
+
+#star4 {
+  height: 30px;
+  width: 30px;
+  margin-left: 3500%;
+  z-index: 11;
+}
+
+#star5 {
+  height: 30px;
+  width: 30px;
+  margin-left: 3000%;
+  z-index: 11;
+}
+
+
+.section-1 {
+  background: url(images/section3.jpg);
+}
+
+.intro {
+  color: rgba(236, 240, 241,1.0);
+  font-family: 'Gabriela', serif;
+  margin-left: 40%;
+  margin-top: 25%;
+  position: absolute;
+  z-index: 10;
+}
+
+.part1 {
+  background-color: rgba(155, 89, 182,1.0);
+  height: 250px;
+  margin-top: -30px;
+  position: relative;
+  text-align: center;
+}
+
+.part1 p {
+  color: rgba(236, 240, 241,1.0);
+  width: 500px;
+  margin-left: 30%;
+}
+
+.part1 h1 {
+  color: rgba(236, 240, 241,1.0);
+}
+
+.l1 {
+  position: relative;
+}
+
+.sign {
+  border-radius: 15px;
+  font-family: 'Gabriela', serif;
+  font-weight: bolder;
+  color: red;
+  position: absolute;
+  top: 70%;
+  left: 3%;
+  text-align: center;
+  height: 15%;
+  width: 15%;
+  z-index: 100;
+}
+
+.sign h1 {
+  text-shadow: 0 0 10px #FF0000;
+}
+
+.section-2 {
+  background-attachment: fixed;
+  background: url(images/fart-hearts.jpg);
+  background-position: 30% 0;
+}
+
+/***   description   ***/
+
+.floats {
+  position: absolute;
+  z-index: 10;
+}
